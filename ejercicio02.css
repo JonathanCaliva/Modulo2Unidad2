@@ -1,0 +1,42 @@
+.contenedor{
+    border: solid black;
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-left: 300px;
+    
+       
+}
+.uno{
+    background-color: red;
+    color: white;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.dos{
+    background-color: blue;
+    color: white;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.tres{
+    background-color: green;
+    color: white;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
